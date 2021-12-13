@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Share",
+    "slug": "Compartilhando Imagens",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    }
+  },
+  "name": "ShareThis"
+}
